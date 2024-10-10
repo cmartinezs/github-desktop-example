@@ -1,0 +1,7 @@
+{
+  "name": "github-desktop-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
